@@ -2,7 +2,7 @@
 :alien:
 
 - 🔭 Actualmente estoy estudiando la licenciatura en Ciencias de la Tierra en la UNAM  :earth_americas:
-- Estoy aprendiendo a utilizas herramientas de programación :eyeglasses:
+-     En proceso de aprendizaje del uso de herramientas de programación :eyeglasses:
 - 💬 Preguntame acerca de las auroras boreales.
 - 📫 envia ms a mi correo izac.ibanez@encit.unam.mx
 - 😄 Pronombres: él 
