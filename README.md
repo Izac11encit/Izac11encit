@@ -1,7 +1,7 @@
 ## Hi there 👋I'm Izac Elezban Ibañez 
 :alien:
 
-- 🔭 Actualmente estoy estudiando la licenciatura en Ciencias de la Tierra  :earth_americas:
+- 🔭 Actualmente estoy estudiando la licenciatura en Ciencias de la Tierra en la UNAM  :earth_americas:
 - Estoy aprendiendo a utilizas herramientas de programación :eyeglasses:
 - 💬 Preguntame acerca de las auroras boreales.
 - 📫 envia ms a mi correo izac.ibanez@encit.unam.mx
